@@ -1,5 +1,5 @@
 {
-  "username": "<twitch username here>",
-  "oauth": "<twitch oauth token>",
-  "channel": "<twitch channel>"
+  "botUsername": "<account to chat with>",
+  "channel": "<channel to connect to>",
+  "oath": "<oath token>"
 }
