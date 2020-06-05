@@ -1,0 +1,5 @@
+{
+  "username": "<twitch username here>",
+  "oauth": "<twitch oauth token>",
+  "channel": "<twitch channel>"
+}
